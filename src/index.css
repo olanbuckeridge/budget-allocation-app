@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.alert-custom{
+  background-color:#6089D5;
+  color:#fff;
+}
+
+.currency-symbol {
+  position:absolute
+}

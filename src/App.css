@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +36,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#currency-cont {
+  background-color:#98fb98;
+  color: white;   
+}
+
+.alert-custom{
+  background-color:#6089D5;
+  color:#fff;
+}
+
+.currency-symbol {
+  position:absolute
 }
